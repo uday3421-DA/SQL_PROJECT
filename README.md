@@ -14,7 +14,7 @@ It helped me sharpen my hands-on skills with data preparation and gave me confid
 
 🗂️ Dataset
 
-Source: Layoffs 2022 Dataset on Kaggle
+Source: https://www.kaggle.com/datasets/swaptr/layoffs-2022
 
 Type: Global layoffs, 2020–2022
 Includes: Company name, location, industry, total laid off, percentage laid off, funding raised, stage, and date
