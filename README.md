@@ -1,5 +1,5 @@
 
-🧼 Layoff Data Cleaning for EDA (SQL Project)
+🧼 Layoff Data Cleaning for EDA (SQL Project) 
 
 
 
@@ -23,15 +23,22 @@ Includes: Company name, location, industry, total laid off, percentage laid off,
 🔧 What I Did
 
 ✅ Created a safe staging table to protect the original dataset
+
 ✅ Removed duplicates using ROW_NUMBER() and CTEs
+
 ✅ Standardized text fields (company, industry, location)
+
 ✅ Converted date column from text to SQL DATE format
+
 ✅ Handled missing values by converting blanks to NULL and filling missing values using self joins
+
 ✅ Dropped unreliable rows/columns to clean the dataset thoroughly
 
 
 🧠 Tools & Skills Used
+
 SQL (MySQL) for data cleaning and manipulation
+
 Techniques:
 Window Functions (ROW_NUMBER())
 CTEs (Common Table Expressions)
