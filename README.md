@@ -4,6 +4,7 @@
 
 
 📌 Overview
+
 This project focuses on cleaning a messy global layoff dataset from Kaggle to prepare it for Exploratory Data Analysis (EDA).
 
 The goal was to fix duplicates, standardize data formats, handle missing values, and tidy up the structure — so the data is ready for real analysis.
